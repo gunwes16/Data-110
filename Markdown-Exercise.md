@@ -1,6 +1,4 @@
 # Week One Assignment
-# In your newly created Markdown-Exercise.md file, practice Markdown by including the following:
-
 # *Christopher Leiby 2025-02-04*  
 
 ## The Hobby of Hiking  
@@ -9,7 +7,7 @@
 Hiking is an outdoor activity that involves walking in nature, often on trails or paths. It is a great way to explore the outdoors, stay active, and clear the mind.  
 
 ## Benefits of Hiking  
-Hiking offers numerous benefits for both the body and mind:  
+Hiking offers numerous benefits for both the body, mind, and spririt:  
 
 - **Physical Health**: Improves cardiovascular fitness, strengthens muscles, and boosts endurance.  
 - **Mental Health**: Reduces stress, enhances mood, and improves focus.  
