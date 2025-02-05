@@ -39,16 +39,6 @@ Learn more about the **health benefits of hiking** [here](https://americanhiking
 ## Quote on Hiking  
 > "It’s not the mountain we conquer, but ourselves." – Sir Edmund Hillary  
 
-
-# 5. Commit Your New File
-# After finishing your Markdown file, scroll to the "Commit new file" section.
-# Write a commit message describing your changes, such as "Add Markdown-Exercise.md."
-# Select the option "Commit directly to the main branch".
-# Click on "Commit new file" to save your changes.
-# 6. Submit Your Work
-# Copy the URL of your Markdown-Exercise.md file from your repository.
-# Submit the URL by pasting it into the designated Github_link Excel file in our MS Teams channel.
-# Evaluation Criteria
 # You will be graded based on:
 
 # Correct use of Markdown syntax.
