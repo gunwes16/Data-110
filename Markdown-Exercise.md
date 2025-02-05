@@ -1,29 +1,46 @@
 # Week One Assignment
 # In your newly created Markdown-Exercise.md file, practice Markdown by including the following:
 
-# Author Section: At the top of your file, create a section called “Author” and include your name and the current date.
+# *Christopher Leiby 2025-02-04*  
 
-# Headers: Use different levels of headers to organize your content.
+## The Hobby of Hiking  
 
-# Emphasis: Add examples of bold and italic text.
+### What is Hiking?  
+Hiking is an outdoor activity that involves walking in nature, often on trails or paths. It is a great way to explore the outdoors, stay active, and clear the mind.  
 
-# Lists: Create both an ordered list (1, 2, 3) and an unordered list (bullet points).
+## Benefits of Hiking  
+Hiking offers numerous benefits for both the body and mind:  
 
-# Links: Insert a hyperlink to a website of your choice.
+- **Physical Health**: Improves cardiovascular fitness, strengthens muscles, and boosts endurance.  
+- **Mental Health**: Reduces stress, enhances mood, and improves focus.  
+- **Connection to Nature**: Allows you to disconnect from technology and enjoy scenic landscapes.  
 
-# Images: Include an image. You can use any online image URL or something personal like a picture of your pet or favorite place.
+Learn more about the **health benefits of hiking** [here](https://americanhiking.org/resources/health-benefits-of-hiking/).  
 
-# Blockquotes: Add a quote you love using the blockquote syntax.
+## Emphasis in Text  
+- Hiking is an **amazing** way to exercise.  
+- It helps to *relax the mind* and reduce stress.  
+- The best hikes are ***challenging yet rewarding***.  
 
-# Inline Code & Code Blocks: Demonstrate inline code and code blocks using backticks and triple backticks.
+## Types of Hiking Trails  
+### Ordered List (Beginner to Advanced)  
+1. **Easy Trails** – Flat paths, suitable for beginners.  
+2. **Moderate Trails** – Some elevation gain, requires stamina.  
+3. **Challenging Trails** – Steep inclines, longer distances, for experienced hikers.  
 
-# Tables: Create a simple table (e.g., one that compares different programming languages or hobbies).
+### Unordered List (Hiking Essentials)  
+- Sturdy hiking boots  
+- Water bottle  
+- Trail map or GPS  
+- Weather-appropriate clothing  
+- Snacks and energy bars  
 
-# Task Lists: Make a task list (e.g., new year resolutions) and check off any that you’ve already completed.
+## Hiking Image  
+![Hiking Trail](https://www.nps.gov/subjects/trails/benefits-of-hiking.htm)  
 
-# Footnotes: Add a footnote at the end of your document explaining something further.
+## Quote on Hiking  
+> "In every walk with nature, one receives far more than he seeks." — John Muir  
 
-# Feel free to be creative! You can write about your favorite hobby, a project idea, or anything else that excites you.
 
 # 5. Commit Your New File
 # After finishing your Markdown file, scroll to the "Commit new file" section.
