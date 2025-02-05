@@ -15,18 +15,18 @@ Hiking offers numerous benefits for both the body, mind, and spririt:
 
 Learn more about the **health benefits of hiking** [here](https://americanhiking.org/resources/health-benefits-of-hiking/).  
 
-## Emphasis in Text  
+## Emphasis examples   
 - Hiking is an **amazing** way to exercise.  
 - It helps to *relax the mind* and reduce stress.  
 - The best hikes are ***challenging yet rewarding***.  
 
 ## Types of Hiking Trails  
-### Ordered List (Beginner to Advanced)  
+### (Beginner to Advanced)  
 1. **Easy Trails** – Flat paths, suitable for beginners.  
 2. **Moderate Trails** – Some elevation gain, requires stamina.  
 3. **Challenging Trails** – Steep inclines, longer distances, for experienced hikers.  
 
-### Unordered List (Hiking Essentials)  
+### (Hiking Essentials)  
 - Sturdy hiking boots  
 - Water bottle  
 - Trail map or GPS  
@@ -34,10 +34,10 @@ Learn more about the **health benefits of hiking** [here](https://americanhiking
 - Snacks and energy bars  
 
 ## Hiking Image  
-![Hiking Trail](https://www.nps.gov/subjects/trails/benefits-of-hiking.htm)  
+! https://www.nurall.co/blog/digital-nomad-destinations-for-travelers-who-love-the-outdoors
 
 ## Quote on Hiking  
-> "In every walk with nature, one receives far more than he seeks." — John Muir  
+> "It’s not the mountain we conquer, but ourselves." – Sir Edmund Hillary  
 
 
 # 5. Commit Your New File
