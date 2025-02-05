@@ -4,7 +4,7 @@
 ## The Hobby of Hiking  
 
 ### What is Hiking?  
-Hiking is an outdoor activity that involves walking in nature, often on trails or paths. It is a great way to explore the outdoors, stay active, and clear the mind.  
+Hiking is a hobby of mine. Hiking is an outdoor activity that involves walking in nature, often on trails or paths. It is a great way to explore the outdoors, stay active, and clear the mind.  
 
 ## Benefits of Hiking 
 Hiking offers numerous benefits for both the body, mind, and spririt:  
