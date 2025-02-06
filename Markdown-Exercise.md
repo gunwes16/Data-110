@@ -1,7 +1,7 @@
 # Week One Assignment
 # *Christopher Leiby 2025-02-04*  
 
-## The Hobby of Hiking  
+## The Hobby of Hiking 
 
 ### What is Hiking?  
 Hiking is a hobby of mine. Hiking is an outdoor activity that involves walking in nature, often on trails or paths. It is a great way to explore the outdoors, stay active, and clear the mind.  
