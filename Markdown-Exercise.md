@@ -39,7 +39,20 @@ Learn more about the **health benefits of hiking** [here](https://americanhiking
 ## Quote on Hiking  
 > "It’s not the mountain we conquer, but ourselves." – Sir Edmund Hillary  
 
-Hiking Comparison Table
+## Inline Code  
+When planning a hike, you can calculate the **total distance** covered using the formula  
+`total_distance = steps * step_length`.  
+
+For example, if you take `10,000` steps with an average `step_length` of `0.8 meters`, the total distance covered is  
+`10,000 * 0.8 = 8,000 meters (or 8 km)`. 
+
+## Code Blocks  
+
+You can calculate the total distance of your hike using the formula:  
+
+`total_distance = steps * step_length`  
+
+
 ## Hiking Comparison Table  
 
 | Hobby      | Physical Effort | Equipment Needed    | Best For          |  
