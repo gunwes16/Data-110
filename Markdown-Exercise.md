@@ -39,8 +39,23 @@ Learn more about the **health benefits of hiking** [here](https://americanhiking
 ## Quote on Hiking  
 > "It’s not the mountain we conquer, but ourselves." – Sir Edmund Hillary  
 
-# You will be graded based on:
+Hiking Comparison Table
+## Hiking Comparison Table  
 
-# Correct use of Markdown syntax.
-# Inclusion of all required Markdown elements.
-# Creativity and effort demonstrated in your Markdown-Exercise.md.
+| Hobby      | Physical Effort | Equipment Needed    | Best For          |  
+|-----------|----------------|---------------------|---------------------|  
+| Hiking    | High           | Boots, Backpack    | Nature Enthusiasts   |  
+| Cycling   | Medium         | Bicycle, Helmet    | Speed Lovers        |  
+| Running   | High           | Running Shoes      | Fitness Seekers     |  
+| Camping   | Low-Medium     | Tent, Sleeping Bag | Outdoor Relaxation  |  
+
+## Hiking Task List  
+
+- [x] Buy a new backpack  
+- [ ] Go on a 5-mile hike  
+- [ ] Hike to a mountain summit  
+- [ ] Plan a multi-day hiking trip  
+- [x] Visit a national park for hiking  
+
+## Footnotes  
+Studies suggest that spending time outdoors reduces stress and increases overall well-being[^1].
