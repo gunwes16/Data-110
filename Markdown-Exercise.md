@@ -48,9 +48,8 @@ For example, if you take `10,000` steps with an average `step_length` of `0.8 me
 
 ## Code Blocks  
 
-You can calculate the total distance of your hike using the formula:  
-
-`total_distance = steps * step_length`  
+def calculate_distance(steps, steps_length): print("The distance is:", step_length * steps)
+  
 
 
 ## Hiking Comparison Table  
